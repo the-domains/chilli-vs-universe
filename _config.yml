@@ -1,4 +1,3 @@
-layout_spectrum: 0.0737696869764477
 typography_spectrum: 0.05876357899978757
 color:
   brandStrength: 0.4918836602009833
@@ -11,5 +10,8 @@ color:
     - '#F2836B'
     - '#F2594B'
     - '#CD2C24'
+layout_spectrum: 0.0737696869764477
+author:
+  name: 'Chillivata '
 name: 'Chilli vs. Universe '
 title: 'RANTIN'' AIN''T EASY '
