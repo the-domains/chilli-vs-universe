@@ -1,18 +1,22 @@
 ---
-description: 'I wondered about this in an earlier poast and now here it is. '
-dateModified: '2016-06-14T07:12:21.614Z'
-datePublished: '2016-06-14T07:12:27.298Z'
-title: ''
+description: >-
+  Omar Mateen was repeat visitor at Orlando gay nightclub before his killing
+  spree, regulars recall
+dateModified: '2016-06-14T07:16:50.590Z'
+datePublished: '2016-06-14T07:16:57.841Z'
+title: Sometimes seeing inside strangers is a terrifying curiosity.
 author: []
-starred: false
 sourcePath: >-
   _posts/2016-06-14-i-wondered-about-this-in-an-earlier-poast-and-now-here-it-is.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-I wondered about this in an earlier poast and now here it is. 
+# Sometimes seeing inside strangers is a terrifying curiosity.
 
-http://www.nationalpost.com/m/wp/blog.html?b=news.nationalpost.com%2Fnews%2Fworld%2Fhomicidal-homophobe-used-to-hang-at-orlando-gay-hotspot-some-regulars-recall
+**[Omar Mateen was repeat visitor at Orlando gay nightclub before his killing spree, regulars recall][0]**
+
+[0]: http://www.nationalpost.com/m/wp/blog.html?b=news.nationalpost.com%2Fnews%2Fworld%2Fhomicidal-homophobe-used-to-hang-at-orlando-gay-hotspot-some-regulars-recall
