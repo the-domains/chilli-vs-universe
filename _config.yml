@@ -12,8 +12,13 @@ color:
     - '#F2836B'
     - '#F2594B'
     - '#CD2C24'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/b18125a7-75fd-44a1-a645-74cf48901b22.jpg
 layout_spectrum: 0.0737696869764477
 author:
   name: Chilli
 name: 'Chilli vs. Universe '
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1967185-f531-43b2-8051-bc3ad88cc8f9.jpg
 title: 'Chilli vs. Universe '
