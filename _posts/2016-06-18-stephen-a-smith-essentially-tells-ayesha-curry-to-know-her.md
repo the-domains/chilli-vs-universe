@@ -37,8 +37,8 @@ app_links:
 isBasedOnUrl: >-
   http://www.huffingtonpost.com/entry/stephen-a-smith-ayesha-curry_us_57642441e4b0853f8bf0a337
 title: Stephen A. Smith Essentially Tells Ayesha Curry To Know Her Place
-datePublished: '2016-06-18T19:47:17.355Z'
-dateModified: '2016-06-18T19:47:11.877Z'
+datePublished: '2016-06-18T19:48:30.164Z'
+dateModified: '2016-06-18T19:48:18.150Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-18-stephen-a-smith-essentially-tells-ayesha-curry-to-know-her.md
