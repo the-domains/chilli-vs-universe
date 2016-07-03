@@ -4,7 +4,7 @@
         <description><![CDATA[Chilli vs. Universe ]]></description>
         <link>https://thegrid.ai/chilli-vs-universe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 09:30:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 09:30:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chilli-vs-universe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/chilli-vs-universe/96e17057-1e43-4f82-8826-3a00c4094c52/index.html</link>
             <guid isPermaLink="false">96e17057-1e43-4f82-8826-3a00c4094c52</guid>
             <pubDate>Sun, 03 Jul 2016 09:29:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ea9c903-884e-4a05-8231-5c38a07f0027.jpg">]]></description>
+            <link>https://thegrid.ai/chilli-vs-universe/339dc973-f4f9-40c1-b01d-ccaf9325a9aa/index.html</link>
+            <guid isPermaLink="false">339dc973-f4f9-40c1-b01d-ccaf9325a9aa</guid>
+            <pubDate>Sun, 03 Jul 2016 09:29:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/OverwatchFeed/status/743624233188720643</link>
             <guid isPermaLink="false">8598be02-ba09-47ce-b656-14f278ff946a</guid>
             <pubDate>Fri, 17 Jun 2016 03:08:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fda6463-0419-4d95-91ee-478bb2f15015.jpg">]]></description>
-            <link>https://thegrid.ai/chilli-vs-universe/7f8f2397-cddb-47d5-a190-d54fff0d9f9b/index.html</link>
-            <guid isPermaLink="false">7f8f2397-cddb-47d5-a190-d54fff0d9f9b</guid>
-            <pubDate>Tue, 14 Jun 2016 07:55:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
