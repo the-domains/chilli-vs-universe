@@ -4,7 +4,7 @@
         <description><![CDATA[Chilli vs. Universe ]]></description>
         <link>https://thegrid.ai/chilli-vs-universe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 09:30:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 09:30:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chilli-vs-universe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/chilli-vs-universe/c00308ee-eb3b-40ae-a673-f89886081a68/index.html</link>
             <guid isPermaLink="false">c00308ee-eb3b-40ae-a673-f89886081a68</guid>
             <pubDate>Sun, 03 Jul 2016 09:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97089ed2-b3fa-4ab4-8e47-090cf92a03a3.jpg">]]></description>
-            <link>https://thegrid.ai/chilli-vs-universe/96e17057-1e43-4f82-8826-3a00c4094c52/index.html</link>
-            <guid isPermaLink="false">96e17057-1e43-4f82-8826-3a00c4094c52</guid>
-            <pubDate>Sun, 03 Jul 2016 09:29:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/chilli-vs-universe/4495044c-0939-4243-8c94-edbc975b2c2e/index.html</link>
             <guid isPermaLink="false">4495044c-0939-4243-8c94-edbc975b2c2e</guid>
             <pubDate>Tue, 14 Jun 2016 07:55:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35db57d4-9840-441d-97ec-e93161ec0973.jpg">]]></description>
+            <link>https://thegrid.ai/chilli-vs-universe/dbaa477b-c4b8-46e9-917f-15efb034883f/index.html</link>
+            <guid isPermaLink="false">dbaa477b-c4b8-46e9-917f-15efb034883f</guid>
+            <pubDate>Tue, 14 Jun 2016 07:55:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
